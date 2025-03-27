@@ -1,2 +1,2 @@
-# transita-mais-backend
-API Transita+
+# API Transita+
+Projeto Backend da Aplicação Transita+
